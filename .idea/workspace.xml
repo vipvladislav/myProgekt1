@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71dedbd4-b712-4f4c-9c44-c141ad3fde21" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usersM.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/data/mysql/ib_buffer_pool" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/mysql/ib_buffer_pool" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/data/mysql/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/mysql/ib_logfile0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/data/mysql/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/mysql/ibdata1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/data/mysql/ibtmp1" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/mysql/ibtmp1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index11.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index12.php" beforeDir="false" afterPath="$PROJECT_DIR$/homeWork.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="php">
+    <include_path>
+      <path value="$PROJECT_DIR$" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1eSiXiunQNhY4ZsbQGQc0gHco7q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index12.php">
+    <configuration name="index12.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myProgekt1/myProgekt1/.idea/index12.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.override.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.override.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.nginx: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="nginx" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.php: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="php" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index12.php" />
+        <item itemvalue="Docker.docker-compose.override.yml: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml.php: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml.nginx: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71dedbd4-b712-4f4c-9c44-c141ad3fde21" name="Default Changelist" comment="" />
+      <created>1594321435046</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594321435046</updated>
+      <workItem from="1594321436357" duration="306000" />
+      <workItem from="1594321743974" duration="78000" />
+      <workItem from="1594321891640" duration="163000" />
+      <workItem from="1594322234293" duration="92000" />
+      <workItem from="1594322497678" duration="129000" />
+      <workItem from="1594322627649" duration="1775000" />
+      <workItem from="1594324404173" duration="4612000" />
+      <workItem from="1594330956199" duration="778000" />
+      <workItem from="1594331735890" duration="614000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="469" y="131" width="1030" height="848" key="#CLI_Interpreters" timestamp="1594331294662">
+      <screen x="59" y="34" width="1861" height="1046" />
+    </state>
+    <state x="469" y="131" width="1030" height="848" key="#CLI_Interpreters/59.34.1861.1046@59.34.1861.1046" timestamp="1594331294662" />
+    <state x="719" y="257" width="530" height="598" key="FileChooserDialogImpl" timestamp="1594331732433">
+      <screen x="59" y="34" width="1861" height="1046" />
+    </state>
+    <state x="719" y="257" width="530" height="598" key="FileChooserDialogImpl/59.34.1861.1046@59.34.1861.1046" timestamp="1594331732433" />
+    <state x="755" y="467" width="458" height="178" key="NewPhpFileDialog" timestamp="1594332008369">
+      <screen x="59" y="34" width="1861" height="1046" />
+    </state>
+    <state x="755" y="467" width="458" height="178" key="NewPhpFileDialog/59.34.1861.1046@59.34.1861.1046" timestamp="1594332008369" />
+    <state x="354" y="103" key="SettingsEditor" timestamp="1594331320134">
+      <screen x="59" y="34" width="1861" height="1046" />
+    </state>
+    <state x="354" y="103" key="SettingsEditor/59.34.1861.1046@59.34.1861.1046" timestamp="1594331320134" />
+    <state x="484" y="229" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1594331897800">
+      <screen x="59" y="34" width="1861" height="1046" />
+    </state>
+    <state x="484" y="229" width="1000" height="654" key="Vcs.Push.Dialog.v2/59.34.1861.1046@59.34.1861.1046" timestamp="1594331897800" />
+    <state x="159" y="132" width="1661" height="848" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1594329016960">
+      <screen x="59" y="34" width="1861" height="1046" />
+    </state>
+    <state x="159" y="132" width="1661" height="848" key="com.intellij.history.integration.ui.views.FileHistoryDialog/59.34.1861.1046@59.34.1861.1046" timestamp="1594329016960" />
+    <state x="508" y="164" width="953" height="784" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594332030783">
+      <screen x="59" y="34" width="1861" height="1046" />
+    </state>
+    <state x="508" y="164" width="953" height="784" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/59.34.1861.1046@59.34.1861.1046" timestamp="1594332030783" />
+    <state x="583" y="299" width="802" height="513" key="git4idea.merge.GitPullDialog" timestamp="1594322806090">
+      <screen x="59" y="34" width="1861" height="1046" />
+    </state>
+    <state x="583" y="299" width="802" height="513" key="git4idea.merge.GitPullDialog/59.34.1861.1046@59.34.1861.1046" timestamp="1594322806090" />
+  </component>
+</project>

@@ -1,0 +1,3 @@
+Name: gnom | Age: 110 
+Name: gnom | Age: 22 
+Name: Джон | Age: 79 
