@@ -2,14 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71dedbd4-b712-4f4c-9c44-c141ad3fde21" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usersM.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/connect/connect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/data/mysql/crud/comments.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/data/mysql/crud/comments.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/data/mysql/crud/db.opt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/data/mysql/crud/products.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/data/mysql/crud/products.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/look_product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product/create_comments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/update.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker/data/mysql/ib_buffer_pool" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/mysql/ib_buffer_pool" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker/data/mysql/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/mysql/ib_logfile0" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker/data/mysql/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/mysql/ibdata1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker/data/mysql/ibtmp1" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/mysql/ibtmp1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index11.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index12.php" beforeDir="false" afterPath="$PROJECT_DIR$/homeWork.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/data/mysql/mysql/innodb_index_stats.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/mysql/mysql/innodb_index_stats.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/data/mysql/mysql/innodb_table_stats.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/data/mysql/mysql/innodb_table_stats.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/data/mysql/test1/test@0020tabl.frm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/data/mysql/test1/test@0020tabl.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usersM.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usersM.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +57,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../php_ukraine_2004" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -50,6 +66,13 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/connect" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/table_products " />
+    </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index12.php">
     <configuration name="index12.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myProgekt1/myProgekt1/.idea/index12.php" useBuiltInWebServerPort="true">
@@ -116,34 +139,79 @@
       <workItem from="1594322627649" duration="1775000" />
       <workItem from="1594324404173" duration="4612000" />
       <workItem from="1594330956199" duration="778000" />
-      <workItem from="1594331735890" duration="614000" />
+      <workItem from="1594331735890" duration="2804000" />
+      <workItem from="1595589766346" duration="675000" />
+      <workItem from="1595596540458" duration="18818000" />
     </task>
+    <task id="LOCAL-00001" summary="first global commit">
+      <created>1594332439058</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594332439058</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first global commit">
+      <created>1595589855809</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595589855809</updated>
+    </task>
+    <task id="LOCAL-00003" summary="This is my draft!">
+      <created>1595590220346</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595590220346</updated>
+    </task>
+    <task id="LOCAL-00004" summary="This is my draft file!">
+      <created>1595590289632</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595590289632</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first global commit" />
+    <MESSAGE value="This is my draft!" />
+    <MESSAGE value="This is my draft file!" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is my draft file!" />
   </component>
   <component name="WindowStateProjectService">
     <state x="469" y="131" width="1030" height="848" key="#CLI_Interpreters" timestamp="1594331294662">
       <screen x="59" y="34" width="1861" height="1046" />
     </state>
     <state x="469" y="131" width="1030" height="848" key="#CLI_Interpreters/59.34.1861.1046@59.34.1861.1046" timestamp="1594331294662" />
-    <state x="719" y="257" width="530" height="598" key="FileChooserDialogImpl" timestamp="1594331732433">
-      <screen x="59" y="34" width="1861" height="1046" />
+    <state x="389" y="34" width="1096" height="997" key="CommitChangelistDialog2" timestamp="1595590286496">
+      <screen x="0" y="34" width="1920" height="997" />
     </state>
-    <state x="719" y="257" width="530" height="598" key="FileChooserDialogImpl/59.34.1861.1046@59.34.1861.1046" timestamp="1594331732433" />
-    <state x="755" y="467" width="458" height="178" key="NewPhpFileDialog" timestamp="1594332008369">
-      <screen x="59" y="34" width="1861" height="1046" />
+    <state x="389" y="34" width="1096" height="997" key="CommitChangelistDialog2/0.34.1920.997@0.34.1920.997" timestamp="1595590286496" />
+    <state x="436" y="49" width="1096" height="1013" key="CommitChangelistDialog2/59.34.1861.1046@59.34.1861.1046" timestamp="1594332434689" />
+    <state x="681" y="247" width="530" height="598" key="FileChooserDialogImpl" timestamp="1595609591436">
+      <screen x="0" y="34" width="1920" height="997" />
     </state>
+    <state x="681" y="247" width="530" height="598" key="FileChooserDialogImpl/0.34.1920.997@0.34.1920.997" timestamp="1595609591436" />
+    <state x="719" y="257" width="530" height="598" key="FileChooserDialogImpl/59.34.1861.1046@59.34.1861.1046" timestamp="1594396427997" />
+    <state x="718" y="447" width="463" height="178" key="NewPhpFileDialog" timestamp="1595614917917">
+      <screen x="0" y="34" width="1920" height="997" />
+    </state>
+    <state x="718" y="447" width="463" height="178" key="NewPhpFileDialog/0.34.1920.997@0.34.1920.997" timestamp="1595614917917" />
     <state x="755" y="467" width="458" height="178" key="NewPhpFileDialog/59.34.1861.1046@59.34.1861.1046" timestamp="1594332008369" />
     <state x="354" y="103" key="SettingsEditor" timestamp="1594331320134">
       <screen x="59" y="34" width="1861" height="1046" />
     </state>
     <state x="354" y="103" key="SettingsEditor/59.34.1861.1046@59.34.1861.1046" timestamp="1594331320134" />
-    <state x="484" y="229" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1594331897800">
-      <screen x="59" y="34" width="1861" height="1046" />
+    <state x="438" y="220" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1595590318571">
+      <screen x="0" y="34" width="1920" height="997" />
     </state>
-    <state x="484" y="229" width="1000" height="654" key="Vcs.Push.Dialog.v2/59.34.1861.1046@59.34.1861.1046" timestamp="1594331897800" />
+    <state x="438" y="220" width="1000" height="654" key="Vcs.Push.Dialog.v2/0.34.1920.997@0.34.1920.997" timestamp="1595590318571" />
+    <state x="484" y="229" width="1000" height="654" key="Vcs.Push.Dialog.v2/59.34.1861.1046@59.34.1861.1046" timestamp="1594332443442" />
     <state x="159" y="132" width="1661" height="848" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1594329016960">
       <screen x="59" y="34" width="1861" height="1046" />
     </state>
