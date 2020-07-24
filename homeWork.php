@@ -1,4 +1,5 @@
 <?php
+
 define('UPLOAD_FOLDER', 'upload');
 
 function filelist(string $path): array
@@ -288,6 +289,7 @@ ob_end_clean();
 //    echo $fileUsers, '<br>';
 //}
 //ob_flush();//очищает буфер обмена
+
 ?>
 
 </body>
